@@ -1,4 +1,4 @@
 # team-data-exploration
-Sheng Chen
-Halima Aktar
-Timothy Kariithi
+- Sheng Chen
+- Halima Aktar
+- Timothy Kariithi
