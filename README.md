@@ -2,3 +2,4 @@
 - Sheng Chen
 - Halima Aktar
 - Timothy Kariithi
+- Beverly Dong
